@@ -65,16 +65,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Official-CRYPTED/Official-CRYPTED/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Official-CRYPTED&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Official-CRYPTED/Official-CRYPTED/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Official-CRYPTED/Official-CRYPTED/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Official-CRYPTED/Official-CRYPTED/output/github-snake.svg" />
+</picture>
