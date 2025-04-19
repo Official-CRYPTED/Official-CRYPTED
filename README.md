@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">- FROM ALGERIA 🇩🇿<br>- I Started in 2020 👨🏼‍💻<br>- i am active in telegram : @crypted_tut <br>- if intersted in Silverbullet etc My channel : @skull_crack</h5>
+<h5 align="left">- FROM ALGERIA 🇩🇿<br>- 5 years in the field 👨🏼‍💻<br>- i am active in telegram : @crypted_tut <br>- if intersted in Silverbullet etc My channel : @skull_crack</h5>
 
 ###
 
