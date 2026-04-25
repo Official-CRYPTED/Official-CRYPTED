@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">- FROM ALGERIA 🇩🇿<br> i am active in telegram : @crypted_tut <br>- if intersted in Silverbullet etc My channel : @skull_crack</h5>
+<h5 align="left">- FROM ALGERIA 🇩🇿
 
 ###
 
